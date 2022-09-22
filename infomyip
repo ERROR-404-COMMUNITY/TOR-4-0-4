@@ -1,0 +1,4 @@
+#!/bin/bash
+curl -s http://ip-api.com/
+        echo ""
+        exit

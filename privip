@@ -1,0 +1,8 @@
+#!/bin/bash
+R='\033[1;31m'
+W='\033[0m'
+privip=$(ifconfig | grep -i "inet 192.168" | cut -d " " -f 10)
+#echo -e ${R}"╭───────────────╮
+#7│ ${W}Tu IP privada${R} │
+#╰───────────────╯"${W}
+echo -e "${privip}"
