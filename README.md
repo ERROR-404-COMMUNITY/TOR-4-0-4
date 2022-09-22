@@ -1,6 +1,6 @@
 <a href="#"><img title="ERROR-404 COMMUNITY" src="https://img.shields.io/badge/ERROR-404-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 # 🌐 TOR-4-0-4 🌐
-Esta es una herramienta que te instala y configura todo lo necesario para la creación de una VPN.
+TOR-4-0-4 es una herramienta que te instala y configura todo lo necesario para la creación de una VPN desde termux.
 
 ![TOR](https://github.com/ERROR-404-COMMUNITY/prueba/blob/main/src/tor1.png)
 <p align="center">
