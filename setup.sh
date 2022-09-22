@@ -86,6 +86,7 @@ cp $HOME/TOR-4-0-4/ipch $PREFIX/bin
 chmod 777 $PREFIX/bin/ipch
 cp $HOME/TOR-4-0-4/privip $PREFIX/bin
 sleep 1
+rm -rf ~/TOR-4-0-4
 echo -e ${R}"    ╭─────────────────────────╮
     │ ${W}Dependencias instaladas ${R}│
     ╰─────────────────────────╯"
