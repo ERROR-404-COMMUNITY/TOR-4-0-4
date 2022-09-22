@@ -2,7 +2,7 @@
 # 🌐 TOR-4-0-4 🌐
 TOR-4-0-4 es una herramienta que te instala y configura todo lo necesario para la creación de una VPN desde termux.
 
-![TOR](https://github.com/ERROR-404-COMMUNITY/prueba/blob/main/src/tor1.png)
+![TOR](https://github.com/ERROR-404-COMMUNITY/TOR-4-0-4/blob/main/src/tor1.png)
 <p align="center">
 <a href="https://github.com/ERROR-404-COMMUNITY"><img title="Author" src="https://img.shields.io/badge/Author-ERROR--404-red.svg?style=for-the-badge&logo=github"></a>
 </p>
@@ -25,5 +25,5 @@ Al ejecutar el comando:
 
 el menú de ayuda aparecerá.
 
-![TOR](https://github.com/ERROR-404-COMMUNITY/prueba/blob/main/src/tor2.png)
+![TOR](https://github.com/ERROR-404-COMMUNITY/TOR-4-0-4/blob/main/src/tor2.png)
 [![Telegram](https://img.shields.io/badge/Telegram-@Error404_00-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Error404_00)
