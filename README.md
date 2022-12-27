@@ -26,4 +26,9 @@ Al ejecutar el comando:
 el menú de ayuda aparecerá.
 
 ![TOR](https://github.com/ERROR-404-COMMUNITY/TOR-4-0-4/blob/main/src/tor2.png)
-[![Telegram](https://img.shields.io/badge/Telegram-@Error404_00-00BFFF?logo=telegram&logoColor=red&style=plastic)](https://t.me/Error404_00)
+
+<p align="left">
+<a href="#"><img title="channel" src="https://img.shields.io/badge/Telegram-CANAL-B60909?logo=telegram&logoColor=white&style=plastic)](https://t.me/error404_community)"></a>
+<a href="#"><img title="chat" src="https://img.shields.io/badge/Telegram-CHAT-B60909?logo=telegram&logoColor=white&style=plastic)](https://t.me/Error404_00)"></a>
+<a href="#"><img title="GitHub" src="https://img.shields.io/badge/GitHub-Error404Community-B60909?logo=github&logoColor=white&style=plastic)](https://github.com/ERROR-404-COMMUNITY)"></a>
+</p>
