@@ -4,7 +4,7 @@ TOR-4-0-4 es una herramienta que te instala y configura todo lo necesario para l
 
 ![TOR](https://github.com/ERROR-404-COMMUNITY/TOR-4-0-4/blob/main/src/tor1.png)
 <p align="center">
-<a href="https://github.com/ERROR-404-COMMUNITY"><img title="Author" src="https://img.shields.io/badge/Author-ERROR--404-red?&style=plastic&logo=github"></a>
+<a href="https://github.com/ERROR-404-COMMUNITY"><img title="Author" src="https://img.shields.io/badge/Author-ERROR--404-FF0000?&style=plastic&logo=github"></a>
 </p>
 
 # Requerimientos
